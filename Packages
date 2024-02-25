@@ -1,0 +1,28 @@
+Package: com.dgh0st.dvirtualhome
+Version: 0.0.16-1
+Section: Tweaks
+Maintainer: funboythez's repo
+Depends: firmware (>10.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.dgh0st.dvirtualhome_0.0.16-1_iphoneos-arm64.deb
+Size: 33534
+MD5sum: f3c9c1f3066382b337cca1c58b0f554c
+Description: Позволяет назначить жесты кнопке Touch ID
+Name: DVirtualHome
+Author: DGh0st
+Depiction: https://funboy7.github.io/repo/depictions/?p=com.dgh0st.dvirtualhome
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.1
+Section: Tweaks
+Maintainer: funboythez's repo
+Depends: firmware (<15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.1_iphoneos-arm64.deb
+Size: 87524
+MD5sum: 66595be22085e081cefb0b5973741709
+Description: Прячет джейл от приложений.
+Name: vnodebypass
+Author: ichitaso
+Depiction: https://funboy7.github.io/repo/depictions/?p=kr.xsf1re.vnodebypass
+
