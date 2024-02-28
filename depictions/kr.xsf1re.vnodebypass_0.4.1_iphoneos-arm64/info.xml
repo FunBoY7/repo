@@ -1,0 +1,18 @@
+<package>
+	<id>kr.xsf1re.vnodebypass_0.4.1_iphoneos-arm64</id>
+	<name>11Cam14</name>
+	<version>0.4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>прячет де</shortDescription>
+	<descriptionlist>
+		<description>11Cam adds the iPhone 11 Camera App to your iPhone</description>
+		<description>Compatible with iPhone SE - iPhone X on iOS 14</description>		
+	</descriptionlist>
+	<changelog>
+		<change>F123123.</change>
+	</changelog>
+</package>

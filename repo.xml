@@ -1,14 +1,9 @@
 <repo>
-    <footerlinks>
-        <link>
-            <name>Мой стим</name>
-            <url>https://steamcommunity.com/id/kuraisoba/</url>
-            <iconclass>glyphicon glyphicon-user</iconclass>
-        </link>
-        <link>
-            <name>I want this depiction template</name>
-            <url>https://github.com/uchks/repo.me</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
-        </link>
-    </footerlinks>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/michael_melita</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</footerlinks>
 </repo>

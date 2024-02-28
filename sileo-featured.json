@@ -1,13 +1,19 @@
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://funboy7.github.io/repo/assets/Banners/dvhead.jpeg",
-        "title": "DVirtualHome (rootless)",
-        "package": "com.dgh0st.dvirtualhome",
-        "hideShadow": false
-    }
-  ]
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/Featured.png",
+         "title":"11Cam15",
+         "package":"com.michaelmelita1.11cam15",
+         "hideShadow":false
+      },
+      {  
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.detectedtext/screenshots/Featured.png",
+         "title":"DetectedText",
+         "package":"com.michaelmelita1.detectedtext",
+         "hideShadow":false
+      },
+   ]
 }
