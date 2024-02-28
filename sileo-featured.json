@@ -1,13 +1,13 @@
 {
-    "class": "FeaturedBannersView",
-    "itemSize": "{263, 148}",
-    "itemCornerRadius": 10,
-    "banners": [
-        {
-            "title": "YouPiP",
-            "package": "com.ps.youpip",
-            "url": "https://funboy7.github.io/repo
-        },
-
-    ]
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://funboy7.github.io/repo/assets/Banners/dvhead.jpeg",
+        "title": "DVirtualHome (rootless)",
+        "package": "com.dgh0st.dvirtualhome",
+        "hideShadow": false
+    }
+  ]
 }
