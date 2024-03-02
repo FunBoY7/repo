@@ -1,0 +1,15 @@
+<package>
+	<id>com.kdt.trollpad_1.2.1</id>
+	<name>TrollPad</name>
+	<version>0.0.17</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>из телефона айпад</shortDescription>
+	<descriptionlist>
+		<description>обманывает ваш спрингборд </description>
+		<description>чтобы телефон стал айпадлм</description>
+	</descriptionlist>
+</package>
