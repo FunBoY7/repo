@@ -1,0 +1,15 @@
+<package>
+	<id>xyz.cypwn.bettercc</id>
+	<name>BetterCC</name>
+	<version>0.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>контрол центр круче </shortDescription>
+	<descriptionlist>
+		<description>делает ваш пу лучше </description>
+		<description>юзаю с двух лет</description>
+	</descriptionlist>
+</package>

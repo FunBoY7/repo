@@ -1,0 +1,64 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "крутой контрол центр",
+                    "useSpacing": true
+                },
+		 {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "123123",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "0.0.5",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "01.03.2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Last Updated"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Miguelaka95",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        },
+        {
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb"
+}

@@ -1,0 +1,88 @@
+Package: com.dgh0st.dvirtualhome
+Version: 0.0.16-1+debug
+Architecture: iphoneos-arm64
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.dgh0st.dvirtualhome_0.0.16-1_iphoneos-arm64.deb
+Size: 33534
+MD5sum: f3c9c1f3066382b337cca1c58b0f554c
+SHA1: 9774758f5dfc92968086a906b7253f483e54c734
+SHA256: efc1fb8130e51baa4436a84926212d5cf6814e5fe54f9a09b3d7dcad4baac3c6
+Section: Tweaks
+Description: My attempt at making virtual home iOS 10 compatible.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: DVirtualHome
+
+Package: com.kdt.trollpad
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: khanhduytran0
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.kdt.trollpad_1.2.1_iphoneos-arm64.deb
+Size: 23528
+MD5sum: e5c581cb62987f3c85858a8cf7f99fed
+SHA1: 08d5bfe2db21aaa8190fe03b9fb1047e6f94c584
+SHA256: 7d94ded498177b96b8e1174846db19391355d80df19f07a49f8c90fb46443834
+Section: Tweaks
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Author: khanhduytran0
+Name: TrollPad
+
+Package: com.michaelmelita1.11cam15-rootless
+Version: 0.0.17
+Architecture: iphoneos-arm64
+Maintainer: Michael Melita
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>>15.0)
+Filename: ./debs/com.michaelmelita1.11cam15_0.0.17_iphoneos-arm64.deb
+Size: 3106
+MD5sum: da4142b2f66de6d0813897e5480fd974
+SHA1: 5172ee7fe17a270a9a7e907ba8da21d9c68c2110
+SHA256: cba3773082f437e94cb266ee119bc95e7856ebe2beab77192c3b0a368ecccbf4
+Section: Tweaks
+Description: New Camera app for iOS 15 & 16
+Author: Michael Melita, Flylarb & Ezekiel1998
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
+Name: 11Cam15
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 612
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.1_iphoneos-arm64.deb
+Size: 87524
+MD5sum: 66595be22085e081cefb0b5973741709
+SHA1: c215376c28f539abc739b1dff8bdc5a40f82cc54
+SHA256: 090eff7c142104c805d09825a8f04e0d7d3ba123cc95741964316ea6cca06390
+Section: System
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: vnodebypass
+
+Package: xyz.cypwn.bettercc
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/xyz.cypwn.bettercc_0.0.5_iphoneos-arm.deb
+Size: 319372
+MD5sum: ba70812dd49c61f4dae54222814a935a
+SHA1: f07ce172557572036e3a7d2e771431602dd1fd8b
+SHA256: dafa1b484e45315ce67f265042eb87f9f56a75d1b78f09bef12b154f86e2b0f6
+Section: Tweaks
+Description: Customize your Control Center! Invisible Modules. Rearrange Connectivity Toggles. Change Modules Size. Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Depiction: https://repo.cypwn.xyz/depiction/30
+Icon: https://repo.packix.com/api/Packages/61c721c917fe08001a00d8a2/icon/download?size=medium&hash=61c721ca17fe08001a00d8a8
+Name: BetterCC
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/30
+
